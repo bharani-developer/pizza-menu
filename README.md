@@ -43,7 +43,7 @@ The project aims to demonstrate key React concepts such as component-based archi
 
 ## Demo
 
-Check out the live demo [here](http://example.com).
+Check out the live demo [here](https://bharani-developer.github.io/pizza-menu/).
 
 ## Installation
 
