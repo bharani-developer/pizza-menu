@@ -1,6 +1,6 @@
 # 🍕 Simple Pizza Menu React App
 
-![Pizza Menu](path/to/screenshot.png)
+![Pizza Menu](https://github.com/bharani-developer/pizza-menu/blob/main/public/fast-react-co.png)
 
 Welcome to the Simple Pizza Menu React App! This project demonstrates a basic implementation of a dynamic pizza menu using React. Users can browse through various pizza options, view details, and customize their selections.
 
@@ -59,5 +59,5 @@ Make sure you have the following installed on your system:
 Clone the repository to your local machine using:
 
 ```sh
-git clone https://github.com/your-username/simple-pizza-menu-react-app.git
+git clone https://github.com/bharani-developer/pizza-menu.git
 cd simple-pizza-menu-react-app
